@@ -66,3 +66,9 @@ body {
 #qr-button:hover {
   background: #222020;
 }
+
+@media screen and (max-width: 650px) {
+  .qr-container {
+    width: 350px;
+  }
+}
